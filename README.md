@@ -1,6 +1,7 @@
 # Terraform OKE Cluster
 
 This is a demo project to showcase OKE terraform module.
+If you have any questions please feel free to contact us devops@naviteq.io
 
 ![](images/infrastructure.png)
 
